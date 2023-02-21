@@ -1,7 +1,14 @@
+# Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
+# Ejecutado por María Guadalupe Montiel Hernández
+
+# video 05 - DENSIDAD DEL RELACIONAMIENTO: CASO HIPOTÉTICO 
+
 # Objetivo: Estimar la densidad del relacionamiento (rd)
 # La densidad varia entre 0 y 1, los valores más grandes indican que la región ha avanzado a
 # una VCR en muchos bienes proximos al bien i y tiene mayor probabilidad de exportarlo en el futuro
 # mayor densidad, mayor cercanía. Menor densidad, mayor lejanía.
+# --------------------------------------------------------------------------------------------------------------------
+# En este laboratorio vamos a:
 # 1. Cargar una matriz hipotética de datos
 # 2. Estimar la VCR de la matriz hipotética
 # 3. Calcular las co-ocurrencias y el relacionamiento (espacio-producto)
@@ -10,7 +17,9 @@
 # 5. Predecir la entrada de una nueva industria
 #Econometría usar count(densidad del relacionamiento) como regresora (predictora) de la entrada de una nueva industria
 
-
+####################################################
+# LABORATORIO 5: densidad del relacionamiento (rd) #
+####################################################
 # Primero cargar la libreria de EconGeo
 library (EconGeo)
 

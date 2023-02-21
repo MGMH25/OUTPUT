@@ -1,8 +1,4 @@
-####################
-#                  #
-# Copiar todo esto #
-#                  #
-####################
+
 # Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
 #Ejecutado por María Guadalupe Montiel Hernández
 
@@ -52,6 +48,8 @@ p+facet_wrap(~ Region)
 
 p+facet_wrap(~ Region, nrow=3)
 
+
 # hacer faceting manipulando número de columnas
 
 p+facet_wrap(~ Region, ncol=5)
+
